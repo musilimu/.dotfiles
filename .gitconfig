@@ -1,0 +1,9 @@
+[user]
+	email = muslimuwitondanishema@gmail.com
+	name = muslimuwitondanishema
+[core]
+	compression = 9
+	editor = vim
+[http]
+	version = HTTP/2
+	postBuffer = 157286400

@@ -1,0 +1,25 @@
+.ssh/id_ed25519
+.ssh/id_ed25519.pub
+.ssh/known_hosts
+.ssh/known_hosts.old
+.config/zed
+.config/pulse
+.config/pulse
+.config/.gsd-keyboard.settings-ported
+.config/Code/
+.config/Cursor/
+.config/dconf/
+# .config/fontconfig/
+.config/go/
+.config/google-chrome/
+.config/menus/
+.config/mimeapps.list
+.config/nextjs-nodejs/
+.config/pulse/
+.config/zed/
+.config/user-dirs
+.config/btop/
+.config/obs-studio/
+.config/user-dirs.dirs
+.config/user-dirs.locale
+.config/vlc/
