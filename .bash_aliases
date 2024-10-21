@@ -7,7 +7,8 @@ alias ...='cd ../..'
 alias grep='grep --color=auto'
 alias h='history'
 alias j='jobs -l'
-alias vi="nvim"
+alias v='vim $(fzf --preview="bat --color=always {}")'
+alias ndw='nmcli device wifi'
 
 # Navigation aliases
 alias projects='cd $HOME/Documents/projects/'
